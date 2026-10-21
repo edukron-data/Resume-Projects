@@ -1,0 +1,485 @@
+{
+  "projects": 60,
+  "guides": [
+    {
+      "id": "P01",
+      "cloud": "AWS",
+      "type": "Development",
+      "file": "P01_Banking_Service_Delivery_On_Amazon_ECS.md",
+      "words": 5124,
+      "family": "aws-ecs"
+    },
+    {
+      "id": "P02",
+      "cloud": "AWS",
+      "type": "Support",
+      "file": "P02_Retail_Order_Service_Operations_On_ECS.md",
+      "words": 5072,
+      "family": "aws-operations"
+    },
+    {
+      "id": "P03",
+      "cloud": "AWS",
+      "type": "Migration",
+      "file": "P03_Retail_Container_Workloads_From_ECS_To_EKS.md",
+      "words": 5147,
+      "family": "aws-migration"
+    },
+    {
+      "id": "P04",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P04_Banking_Account_Opening_Event_Platform.md",
+      "words": 4801,
+      "family": "azure-functions"
+    },
+    {
+      "id": "P05",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P05_Retail_Product_Catalog_Operations_Support.md",
+      "words": 4763,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P06",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P06_Retail_Subversion_To_Azure_Repos_Migration.md",
+      "words": 4811,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P07",
+      "cloud": "AWS",
+      "type": "Development",
+      "file": "P07_Banking_API_Release_Platform_On_AWS.md",
+      "words": 4856,
+      "family": "aws-codedeploy"
+    },
+    {
+      "id": "P08",
+      "cloud": "AWS",
+      "type": "Support",
+      "file": "P08_Retail_Inventory_Services_On_EKS_Support.md",
+      "words": 4901,
+      "family": "aws-operations"
+    },
+    {
+      "id": "P09",
+      "cloud": "AWS",
+      "type": "Migration",
+      "file": "P09_Retail_Package_Feed_To_AWS_CodeArtifact.md",
+      "words": 4968,
+      "family": "aws-migration"
+    },
+    {
+      "id": "P10",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P10_Retail_Database_Schema_Release_Automation.md",
+      "words": 4699,
+      "family": "azure-database"
+    },
+    {
+      "id": "P11",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P11_Banking_Secure_File_Transfer_Service_Support.md",
+      "words": 4732,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P12",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P12_Retail_Application_Configuration_Store_Migration.md",
+      "words": 4748,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P13",
+      "cloud": "AWS",
+      "type": "Migration",
+      "file": "P13_Retail_Application_Servers_To_Amazon_EC2.md",
+      "words": 4881,
+      "family": "aws-migration"
+    },
+    {
+      "id": "P14",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P14_Banking_Risk_Reporting_Release_Controls.md",
+      "words": 4648,
+      "family": "azure-artifact"
+    },
+    {
+      "id": "P15",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P15_Retail_Click_And_Collect_Service_Support.md",
+      "words": 4767,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P16",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P16_Retail_ARM_Templates_To_Terraform_Migration.md",
+      "words": 4797,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P17",
+      "cloud": "AWS",
+      "type": "Development",
+      "file": "P17_Retail_AWS_Infrastructure_Delivery_Framework.md",
+      "words": 4911,
+      "family": "aws-infrastructure"
+    },
+    {
+      "id": "P18",
+      "cloud": "AWS",
+      "type": "Support",
+      "file": "P18_Banking_API_Gateway_And_Lambda_Operations.md",
+      "words": 5006,
+      "family": "aws-operations"
+    },
+    {
+      "id": "P19",
+      "cloud": "AWS",
+      "type": "Migration",
+      "file": "P19_Retail_Linux_File_Shares_To_Amazon_EFS.md",
+      "words": 4993,
+      "family": "aws-migration"
+    },
+    {
+      "id": "P20",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P20_Retail_Commerce_GitOps_Deployment_Platform.md",
+      "words": 4691,
+      "family": "azure-kubernetes"
+    },
+    {
+      "id": "P21",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P21_Banking_Card_Services_Infrastructure_Support.md",
+      "words": 4780,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P22",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P22_Retail_Build_Agents_To_Azure_Scale_Sets.md",
+      "words": 4827,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P23",
+      "cloud": "AWS",
+      "type": "Development",
+      "file": "P23_Banking_Notification_Service_CI_CD_On_AWS.md",
+      "words": 4878,
+      "family": "aws-lambda"
+    },
+    {
+      "id": "P24",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P24_Banking_Customer_Notification_Delivery_Platform.md",
+      "words": 4737,
+      "family": "azure-functions"
+    },
+    {
+      "id": "P25",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P25_Retail_Multi_Store_Website_Support.md",
+      "words": 4702,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P26",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P26_Retail_Application_Secrets_To_Key_Vault.md",
+      "words": 4777,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P27",
+      "cloud": "AWS",
+      "type": "Development",
+      "file": "P27_Retail_Microservices_Delivery_On_Amazon_EKS.md",
+      "words": 4901,
+      "family": "aws-eks"
+    },
+    {
+      "id": "P28",
+      "cloud": "AWS",
+      "type": "Migration",
+      "file": "P28_Retail_PostgreSQL_Workload_To_Amazon_RDS.md",
+      "words": 5057,
+      "family": "aws-migration"
+    },
+    {
+      "id": "P29",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P29_Retail_Search_Service_Release_Automation.md",
+      "words": 4721,
+      "family": "azure-app-service"
+    },
+    {
+      "id": "P30",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P30_Banking_Batch_Settlement_Service_Support.md",
+      "words": 4677,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P31",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P31_Retail_Web_Application_To_Azure_Container_Apps.md",
+      "words": 4794,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P32",
+      "cloud": "AWS",
+      "type": "Migration",
+      "file": "P32_Retail_Jenkins_Jobs_To_AWS_CodePipeline.md",
+      "words": 4938,
+      "family": "aws-migration"
+    },
+    {
+      "id": "P33",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P33_Banking_Production_Promotion_Policy_Framework.md",
+      "words": 4733,
+      "family": "azure-platform"
+    },
+    {
+      "id": "P34",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P34_Retail_Payment_Worker_Operations_Support.md",
+      "words": 4772,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P35",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P35_Retail_IIS_Server_Replacement_Migration.md",
+      "words": 4774,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P36",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P36_Retail_Feature_Flag_Release_Integration.md",
+      "words": 4709,
+      "family": "azure-platform"
+    },
+    {
+      "id": "P37",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P37_Banking_Customer_Alert_Services_Support.md",
+      "words": 4729,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P38",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P38_Retail_Azure_DevOps_Organization_Transition.md",
+      "words": 4824,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P39",
+      "cloud": "AWS",
+      "type": "Support",
+      "file": "P39_Retail_Payment_Integration_Serverless_Support.md",
+      "words": 4875,
+      "family": "aws-operations"
+    },
+    {
+      "id": "P40",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P40_Retail_Fulfillment_Functions_Delivery_Platform.md",
+      "words": 4693,
+      "family": "azure-functions"
+    },
+    {
+      "id": "P41",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P41_Banking_Document_Service_Platform_Support.md",
+      "words": 4716,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P42",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P42_Retail_Messaging_Platform_To_Azure_Service_Bus.md",
+      "words": 4830,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P43",
+      "cloud": "AWS",
+      "type": "Development",
+      "file": "P43_Retail_Blue_Green_Delivery_On_Amazon_ECS.md",
+      "words": 5020,
+      "family": "aws-ecs"
+    },
+    {
+      "id": "P44",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P44_Retail_Release_Validation_Automation_Framework.md",
+      "words": 4694,
+      "family": "azure-artifact"
+    },
+    {
+      "id": "P45",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P45_Banking_Treasury_Application_Platform_Support.md",
+      "words": 4709,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P46",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P46_Retail_Backup_Policy_And_Vault_Transition.md",
+      "words": 4807,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P47",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P47_Banking_Private_Build_Agent_Platform.md",
+      "words": 4716,
+      "family": "azure-platform"
+    },
+    {
+      "id": "P48",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P48_Retail_Delivery_Tracking_Application_Support.md",
+      "words": 4680,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P49",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P49_Retail_Blob_Storage_Account_Migration.md",
+      "words": 4720,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P50",
+      "cloud": "AWS",
+      "type": "Support",
+      "file": "P50_Banking_Document_Storage_Application_Support.md",
+      "words": 4862,
+      "family": "aws-operations"
+    },
+    {
+      "id": "P51",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P51_Retail_API_Management_Deployment_Framework.md",
+      "words": 4713,
+      "family": "azure-platform"
+    },
+    {
+      "id": "P52",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P52_Banking_Certificate_And_Key_Vault_Operations_Support.md",
+      "words": 4711,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P53",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P53_Retail_Application_VMs_To_Availability_Zones.md",
+      "words": 4792,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P54",
+      "cloud": "AWS",
+      "type": "Support",
+      "file": "P54_Banking_RDS_Application_Connectivity_Support.md",
+      "words": 4880,
+      "family": "aws-operations"
+    },
+    {
+      "id": "P55",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P55_Banking_Application_Landing_Zone_Automation.md",
+      "words": 4717,
+      "family": "azure-platform"
+    },
+    {
+      "id": "P56",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P56_Retail_Supplier_Invoice_Platform_Support.md",
+      "words": 4704,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P57",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P57_Retail_NuGet_Feed_To_Azure_Artifacts_Migration.md",
+      "words": 4785,
+      "family": "azure-migration"
+    },
+    {
+      "id": "P58",
+      "cloud": "Azure",
+      "type": "Development",
+      "file": "P58_Banking_Container_Image_Signing_Pipeline.md",
+      "words": 4781,
+      "family": "azure-platform"
+    },
+    {
+      "id": "P59",
+      "cloud": "Azure",
+      "type": "Support",
+      "file": "P59_Retail_Pricing_Cache_Operations_Support.md",
+      "words": 4760,
+      "family": "azure-operations"
+    },
+    {
+      "id": "P60",
+      "cloud": "Azure",
+      "type": "Migration",
+      "file": "P60_Retail_Application_Ingress_Gateway_Replacement.md",
+      "words": 4883,
+      "family": "azure-migration"
+    }
+  ]
+}
